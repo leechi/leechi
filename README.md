@@ -1,7 +1,23 @@
 ### Hi there 👋
+**🌱 I’m currently learning React**
 
+
+<h4>💪🏻Skills</h4>
+<div style="display:flex">
+    <img src="https://img.shields.io/badge/HTML-ffa200?style=flat-square&logo=HTML&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=CSS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JS-yellow?style=flat-square&logo=JS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=Node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/express-white?style=flat-square&logo=express&logoColor=black"/>
+</div>
+
+<h5>Tools</h5>
+
+<div style="display:flex">
+    <img src="https://img.shields.io/badge/Figma-red?style=flat-square&logo=Figma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Notion-white?style=flat-square&logo=Notion&logoColor=black"/>
+</div>
 <!--
-**leechi/leechi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
