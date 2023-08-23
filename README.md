@@ -1,3 +1,4 @@
+<div align="center">
 ### Hi there 👋
 **🌱 I’m currently learning React**
 
@@ -17,6 +18,11 @@
     <img src="https://img.shields.io/badge/Figma-red?style=flat-square&logo=Figma&logoColor=white"/>
     <img src="https://img.shields.io/badge/Notion-white?style=flat-square&logo=Notion&logoColor=black"/>
 </div>
+</div>
+
+
+![leechi's GitHub stats](https://github-readme-stats.vercel.app/api?username=leechi&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leechi&layout=compact&theme=transparent)
 <!--
 
 Here are some ideas to get you started:
