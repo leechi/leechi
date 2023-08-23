@@ -5,19 +5,30 @@
 <hr>
 
 <h4>💪🏻Skills</h4>
-<div style="display:flex">
-    <img src="https://img.shields.io/badge/HTML-ffa200?style=flat-square&logo=HTML&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=CSS&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JS-yellow?style=flat-square&logo=JS&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=Node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/express-white?style=flat-square&logo=express&logoColor=black"/>
-</div>
 
-<h5>Tools</h5>
+    <h6>Front</h6>
+    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+    
+    <br>
+    <h6>Back</h6>
+    <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+    <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+    <br>
+    
 
+
+<h6>Tools</h6>
 <div style="display:flex">
     <img src="https://img.shields.io/badge/Figma-red?style=flat-square&logo=Figma&logoColor=white"/>
     <img src="https://img.shields.io/badge/Notion-white?style=flat-square&logo=Notion&logoColor=black"/>
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
 </div>
 
 <hr>
