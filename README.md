@@ -1,13 +1,16 @@
-<style>
-    img{
-        border-radius:5px;
-    }
-</style>
-### Hi there 👋
-**🌱 I’m currently learning React**
+### Hi there 🐼 👋🏿
 
+**I’m a frontEnd developer.**
+
+**My main skills are HTML, CSS, JavaScropt and React.**
+
+**I’m a persistent person, who study hard day and night for be a good developer**
+
+**I love Exercise, Programming, Learning, Reading the book and Steping up everything**
+
+#### Come my blog😋
 <a href="https://leechi222.tistory.com/">
-    <img src="https://img.shields.io/badge/leechi-orange?style=for-the-badge&logo=tistory&logoColor=whitelink=https://leechi222.tistory.com/"> 
+    <img src="https://img.shields.io/badge/leechi-orange?style=for-the-badge&logo=tistory&logoColor=whitelink=https://leechi222.tistory.com/" style="border-radius:3px;"> 
 </a>
 
 <hr>
@@ -16,7 +19,7 @@
 
 <h6>Front</h6>
 <div style="display:flex">
-    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="border-radius:3px;"> 
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
     <img src="https://img.shields.io/badge/nunjucks-green?style=for-the-badge&logo=nunjucks&logoColor=black">
