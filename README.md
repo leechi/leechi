@@ -1,4 +1,8 @@
-
+<style>
+    img{
+        border-radius:5px;
+    }
+</style>
 ### Hi there 👋
 **🌱 I’m currently learning React**
 
