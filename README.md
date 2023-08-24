@@ -2,7 +2,7 @@
 
 I’m a **frontEnd developer**.
 
-My main skills are HTML, CSS, JavaScropt and React.
+My main skills are HTML, CSS, JavaScript and React.
 
 I’m a persistent person, who study hard day and night for be a good developer
 
