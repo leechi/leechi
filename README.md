@@ -1,13 +1,13 @@
 ### Hi there 🐼 👋🏿
 
-**I’m a frontEnd developer.**
+I’m a **frontEnd developer**.
 
-**My main skills are HTML, CSS, JavaScropt and React.**
+My main skills are HTML, CSS, JavaScropt and React.
 
-**I’m a persistent person, who study hard day and night for be a good developer**
+I’m a persistent person, who study hard day and night for be a good developer
 
-**I love Exercise, Programming, Learning, Reading the book and Steping up everything**
-
+I love Exercise, Programming, Learning, Reading the book and **Steping up everything
+**
 #### Come my blog😋
 <a href="https://leechi222.tistory.com/">
     <img src="https://img.shields.io/badge/leechi-orange?style=for-the-badge&logo=tistory&logoColor=whitelink=https://leechi222.tistory.com/" style="border-radius:3px;"> 
