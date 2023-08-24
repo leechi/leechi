@@ -3,9 +3,7 @@
 **🌱 I’m currently learning React**
 
 <a href="https://leechi222.tistory.com/">
-    <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://leechi222.tistory.com/"
-        />
+    <img src="https://img.shields.io/badge/leechi-orange?style=for-the-badge&logo=tistory&logoColor=whitelink=https://leechi222.tistory.com/"> 
 </a>
 
 <hr>
