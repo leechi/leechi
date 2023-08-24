@@ -2,6 +2,12 @@
 ### Hi there 👋
 **🌱 I’m currently learning React**
 
+<a href="https://leechi222.tistory.com/">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://leechi222.tistory.com/"
+        />
+</a>
+
 <hr>
 
 <h4>🚀Skills</h4>
