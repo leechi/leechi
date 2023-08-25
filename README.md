@@ -1,4 +1,3 @@
-<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
 ### Hi there 🐼 👋🏿
 
 I’m a **frontEnd developer**.
@@ -60,7 +59,7 @@ I love Exercise, Programming, Learning, Reading the book and Steping up everythi
 ![leechi's GitHub stats](https://github-readme-stats.vercel.app/api?username=leechi&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leechi&layout=compact&theme=transparent)
 
-</div>
+
 <!--
 
 Here are some ideas to get you started:
