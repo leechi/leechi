@@ -52,6 +52,7 @@ I love Exercise, Programming, Learning, Reading the book and Steping up everythi
     <img alt="SASS" src ="https://img.shields.io/badge/SASS-cc6699.svg?&style=for-the-badge&logo=Sass&logoColor=white"/>
     <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
+    <img src="https://img.shields.io/badge/firebase-479CFF?style=for-the-badge&logo=firebase&logoColor=white"/>
 </div>
 
 <hr>
