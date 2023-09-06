@@ -12,12 +12,11 @@
 <a href="https://leechi222.tistory.com/">
     <img src="https://img.shields.io/badge/leechi-orange?style=for-the-badge&logo=tistory&logoColor=whitelink=https://leechi222.tistory.com/" style="border-radius:3px;"> 
 </a>
-
 <hr>
 
-<h4>🎨Skills</h4>
+<h4>기술</h4>
 
-<h6>Front⭐</h6>
+<h6>프론트엔드</h6>
 <div style="display:flex">
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="border-radius:3px;"> 
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -26,7 +25,7 @@
 </div>    
 
 
-<h6>Back</h6>
+<h6>백엔드</h6>
 <div style="display:flex">
     <img src="https://img.shields.io/badge/nunjucks-green?style=for-the-badge&logo=nunjucks&logoColor=black">
     <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
@@ -36,7 +35,7 @@
 </div>
 
 
-<h6>Tools</h6>
+<h6>도구</h6>
 <div style="display:flex">
     <img src="https://img.shields.io/badge/Figma-red?style=for-the-badge&logo=Figma&logoColor=white">
     <img src="https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=Notion&logoColor=black">
@@ -45,7 +44,7 @@
     <img src="https://img.shields.io/badge/Blender-F05032?style=for-the-badge&logo=Blender&logoColor=white">
 </div>
 
-<h6>I'm going to learn</h6>
+<h6>배우고 있으며, 배워나갈 예정입니다!</h6>
 <div style="algin:center">
     <img alt="SASS" src ="https://img.shields.io/badge/SASS-cc6699.svg?&style=for-the-badge&logo=Sass&logoColor=white"/>
     <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
