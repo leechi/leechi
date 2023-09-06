@@ -1,9 +1,9 @@
-<h1> 🐼 이치연 </h1>
+<h1> 이치연  </h1>
 
-
-##### 🌸 사용자 경험을 중요하게 여깁니다. 
+#### 반갑습니다. 선한 영향력을 지닌 개발자 이치연입니다.😄
 ##### 🌲 항상 부족한 부분을 채워나가는 중입니다.
 ##### 🌈 기본이 가장 중요하다고 생각합니다.
+##### 🌸 사용자 경험을 중요하게 여깁니다. 
 ##### 😋 맛있는 디자인을 좋아합니다.
 
 
@@ -15,8 +15,7 @@
 <hr>
 
 <h4>기술</h4>
-
-<h6>프론트엔드</h6>
+<h6>프론트엔드 기술들을 사용할때 즐거움을 많이 느낍니다!</h6>
 <div style="display:flex">
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="border-radius:3px;"> 
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -25,7 +24,8 @@
 </div>    
 
 
-<h6>백엔드</h6>
+
+<h6>간단한 백엔드를 다룰 수 있습니다.</h6>
 <div style="display:flex">
     <img src="https://img.shields.io/badge/nunjucks-green?style=for-the-badge&logo=nunjucks&logoColor=black">
     <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
@@ -35,7 +35,7 @@
 </div>
 
 
-<h6>도구</h6>
+<h6>다양한 도구를 배우고 습득하는 것을 즐깁니다💪🏻</h6>
 <div style="display:flex">
     <img src="https://img.shields.io/badge/Figma-red?style=for-the-badge&logo=Figma&logoColor=white">
     <img src="https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=Notion&logoColor=black">
@@ -44,12 +44,13 @@
     <img src="https://img.shields.io/badge/Blender-F05032?style=for-the-badge&logo=Blender&logoColor=white">
 </div>
 
-<h6>배우고 있으며, 배워나갈 예정입니다!</h6>
+<h6>✏️ 배우고 있으며, 배워나갈 예정입니다!</h6>
 <div style="algin:center">
     <img alt="SASS" src ="https://img.shields.io/badge/SASS-cc6699.svg?&style=for-the-badge&logo=Sass&logoColor=white"/>
     <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Three.js-white?style=for-the-badge&logo=Three.js&logoColor=black"/>
     <img src="https://img.shields.io/badge/firebase-479CFF?style=for-the-badge&logo=firebase&logoColor=white"/>
 </div>
 
