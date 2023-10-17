@@ -22,7 +22,8 @@
     <img alt="SASS" src ="https://img.shields.io/badge/SASS-cc6699.svg?&style=for-the-badge&logo=Sass&logoColor=white"/>
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-    
+    <img src="https://img.shields.io/badge/node-green?style=for-the-badge&logo=node&logoColor=black"> 
+    <img src="https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=black"> 
 </div>    
 
 
@@ -37,7 +38,6 @@
     <img src="https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=Notion&logoColor=black">
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/Blender-F05032?style=for-the-badge&logo=Blender&logoColor=white">
 </div>
 
 <h6>✏️ 배우고 있으며, 배워나갈 예정입니다!</h6>
