@@ -22,8 +22,8 @@
     <img alt="SASS" src ="https://img.shields.io/badge/SASS-cc6699.svg?&style=for-the-badge&logo=Sass&logoColor=white"/>
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-    <img src="https://img.shields.io/badge/node-green?style=for-the-badge&logo=node&logoColor=black"> 
-    <img src="https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=black"> 
+    <img src="https://img.shields.io/badge/nodejs-green?style=for-the-badge&logo=nodejs&logoColor=black"> 
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 </div>    
 
 
@@ -33,13 +33,12 @@
 
 <h6>다양한 도구를 배우고 습득하는 것을 즐깁니다💪🏻</h6>
 <div style="display:flex">
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
     <img src="https://img.shields.io/badge/Figma-red?style=for-the-badge&logo=Figma&logoColor=white">
     <img src="https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=Notion&logoColor=black">
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
-
+<!-- 
 <h6>✏️ 배우고 있으며, 배워나갈 예정입니다!</h6>
 <div style="algin:center">
     <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
@@ -48,7 +47,7 @@
     <img src="https://img.shields.io/badge/Three.js-white?style=for-the-badge&logo=Three.js&logoColor=black"/>
     <img src="https://img.shields.io/badge/firebase-479CFF?style=for-the-badge&logo=firebase&logoColor=white"/>
 </div>
-
+-->
 <hr>
 
 ![leechi's GitHub stats](https://github-readme-stats.vercel.app/api?username=leechi&show_icons=true&theme=transparent)
