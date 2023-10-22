@@ -10,7 +10,7 @@
 
 #### 저의 블로그 놀러오세요!
 <a href="https://leechi222.tistory.com/">
-    <img src="https://img.shields.io/badge/leechi-orange?style=for-the-badge&logo=tistory&logoColor=whitelink=https://leechi222.tistory.com/" style="border-radius:3px;"> 
+    <img src="https://img.shields.io/badge/leechi-165BDB?style=for-the-badge&logo=tistory&logoColor=whitelink=https://leechi222.tistory.com/" style="border-radius:3px;"> 
 </a>
 <hr>
 
@@ -22,7 +22,8 @@
     <img alt="SASS" src ="https://img.shields.io/badge/SASS-cc6699.svg?&style=for-the-badge&logo=Sass&logoColor=white"/>
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-    <img src="https://img.shields.io/badge/nodejs-green?style=for-the-badge&logo=nodejs&logoColor=black"> 
+    <img src="https://img.shields.io/badge/node.js-green?style=for-the-badge&logo=node.js&logoColor=white"> 
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 </div>    
 
