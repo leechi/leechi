@@ -1,10 +1,11 @@
 <h1> 이치연  </h1>
 
-#### 반갑습니다. 선한 영향력을 지닌 개발자 이치연입니다.😄
-##### 🌲 항상 부족한 부분을 채워나가는 중입니다.
-##### 🌈 기본이 가장 중요하다고 생각합니다.
-##### 🌸 사용자 경험을 중요하게 여깁니다. 
-##### 😋 맛있는 디자인을 좋아합니다.
+#### 안녕하세요, 프론트엔드 개발자 이치연입니다. 
+#### 프론트엔드 개발자의 궁극적인 목표는 서비스를 이용하는 사용자의 접근성과 편의성을 증진시키는 것이라고 생각합니다.
+
+#### 어떻게 사용자에게 더 편리하고 빠른 환경을 제공할지 고민하며 이것이 비즈니스로 연결되어질지 항상 고민하고 있습니다.
+
+#### 그렇기에 계속해서 공부하고 있습니다.
 
 
 
@@ -22,6 +23,7 @@
     <img alt="SASS" src ="https://img.shields.io/badge/SASS-cc6699.svg?&style=for-the-badge&logo=Sass&logoColor=white"/>
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+    <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
     <br>
     <img src="https://img.shields.io/badge/node.js-green?style=for-the-badge&logo=node.js&logoColor=white"> 
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/></a>
@@ -43,7 +45,7 @@
 <!-- 
 <h6>✏️ 배우고 있으며, 배워나갈 예정입니다!</h6>
 <div style="algin:center">
-    <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
+    
     <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Three.js-white?style=for-the-badge&logo=Three.js&logoColor=black"/>
